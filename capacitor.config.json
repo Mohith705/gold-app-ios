@@ -1,0 +1,8 @@
+{
+  "appId": "com.timesera.goldapp",
+  "appName": "Timesera ERP",
+  "webDir": "out",
+  "server": {
+    "androidScheme": "https"
+  }
+}
